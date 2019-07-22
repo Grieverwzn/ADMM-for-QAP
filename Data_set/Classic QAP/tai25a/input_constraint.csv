@@ -1,0 +1,5 @@
+link_type_id,link_type_name,agent_type1,agent_type2,RHS_constant
+1,transportation,1,0,25
+2,homebuilding,1,-25,0
+3,officebuilding,1,-25,0
+4,virtual_link,0,1,1

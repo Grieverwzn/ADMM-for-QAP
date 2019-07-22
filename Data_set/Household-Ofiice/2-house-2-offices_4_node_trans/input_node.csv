@@ -1,0 +1,10 @@
+node_name,node_id,x,y
+trans_node,1,4.3,2
+trans_node,2,0,0
+trans_node,3,4,2
+trans_node,4,4,0
+house_node,1001,1,1
+house_node,1002,3,1
+office_node,1003,2,3
+office_node,1004,4,1
+virtual_node,5000,20,20

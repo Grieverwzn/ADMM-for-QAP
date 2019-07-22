@@ -1,0 +1,5 @@
+agent_id,origin_node_id,destination_node_id,customized_cost_link_type,customized_cost_link_value,agent_type,set_of_allowed_link_types
+1,1001,4002,1,23,1,1;2;3
+2,1002,4001,1,42,1,1;2;3
+3,1001,4001,2,1,2,2;3;4
+4,1002,4002,2,1,2,2;3;4
